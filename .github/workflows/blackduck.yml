@@ -23,5 +23,5 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: hilips-labs/blackduck-scanner-action@v2
+      - uses: philips-labs/blackduck-scanner-action@v2
 
